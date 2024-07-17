@@ -1,2 +1,3 @@
-# Proyecto-superKinal-2024-administrador-de-super-mercado
-Proyecto super kinal 2024
+# Proyecto hecho en html 
+Listar productos de una base de datos
+
