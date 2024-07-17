@@ -1,0 +1,16 @@
+body {
+    background-image: url('assets/image/Liu.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    font-family: "VT323", monospace;
+    font-weight: 600;
+    font-style: normal;
+    
+}
+
+bullets {
+    list-style-type: none;
+    padding: 0;
+}

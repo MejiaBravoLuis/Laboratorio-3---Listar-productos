@@ -1,0 +1,6 @@
+org\luismejia\webapp\model\Producto.class
+Main.class
+org\luismejia\webapp\service\ProductoService.class
+org\luismejia\webapp\service\IProductoService.class
+org\luismejia\webapp\servlets\ProductoServlet.class
+org\luismejia\webapp\util\jpaUtil.class

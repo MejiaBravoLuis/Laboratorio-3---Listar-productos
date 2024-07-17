@@ -1,0 +1,11 @@
+body {
+    background-image: url('assets/image/Fondo.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    font-family: "VT323", monospace;
+    font-weight: 600;
+    font-style: normal;
+    
+}
